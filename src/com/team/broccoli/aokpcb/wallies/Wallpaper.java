@@ -1,4 +1,4 @@
-package com.cr5315.PCB;
+package com.team.broccoli.aokpcb.wallies;
 
 import android.app.Activity;
 import android.content.res.Resources;
